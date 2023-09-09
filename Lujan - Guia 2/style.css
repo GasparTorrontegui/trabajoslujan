@@ -1,0 +1,145 @@
+/* PUNTO 1 */
+
+#titulo-p1{
+    color: green;
+}
+
+#texto-p1{
+    color: fuchsia;
+    background-color: black;
+}
+
+/* PUNTO 2 */
+
+.titulo {
+    color: red;
+    background-color: yellow;
+}
+
+/* PUNTO 3 */
+
+div p {
+    color: red;
+    background-color: white;
+}
+
+/* PUNTO 4 */
+
+.titulo {
+    color: red;
+}
+
+.parrafo {
+    background-color: black;
+}
+
+#titulo-principal {
+    font-size: 20px;
+}
+
+p {
+    color: grey;
+}
+
+/* PUNTO 5 */
+
+#frag-1 {
+    border: 3px solid black;
+    background-color: red;
+}
+
+#titulo-frag-1 {
+    color: black;
+}
+
+.parrafo-frag-1 {
+    color: black;
+    background-color: red;
+}
+
+#frag-2 {
+    border: 3px solid black; 
+    background-color: yellow;
+}
+
+#parrafo-frag-2{
+    color: black;
+    background-color: yellow;
+}
+
+#frag-3 {
+    border: 3px solid black;
+    background-color: lime;
+}
+
+#parrafo-frag-3 {
+    color: black;
+    background-color: lime;
+}
+
+/* PUNTO 6 */
+
+#frag-p6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* PUNTO 7 */
+
+.campo {
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.boton {
+    background-color: darkgreen;
+    color: white;
+}
+
+/* PUNTO 8 */
+
+header {
+    margin: 20px;
+    padding: 10px;
+    color: blue;
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    background-color: #CC2345;
+}
+
+footer {
+    margin: 20px;
+    padding: 45px;
+    color: grey;
+}
+
+/* PUNTO 9 */
+
+.link{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+/* PUNTO 10 */
+
+.campo8{
+    width: 100%;
+    margin: 15px;
+    padding: 10px;
+}
+
+input:focus{
+    background-color: #CC2345;
+    border: 5px solid rebeccapurple;
+}
+
+select:focus{
+    background-color: aqua;
+    border: 10px dotted lime;
+}
