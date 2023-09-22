@@ -1,0 +1,27 @@
+#img1 {
+    background-image: url("./images/pieza-de-rompecabeza-1.png");
+}
+
+#img2 {
+    background-image: url("./images/pieza-de-rompecabeza-2.png");
+    left: 179px;
+}
+
+#img3 {
+    background-image: url("./images/pieza-de-rompecabeza-3.png");
+    left: 114px;
+    bottom: 317px;
+}
+
+#img4 {
+    background-image: url("./images/pieza-de-rompecabeza-4.png");
+    bottom: 382px;
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+}

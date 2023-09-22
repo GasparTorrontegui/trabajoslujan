@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+#barra-lateral {
+    width: 30%;
+    background-color: cornflowerblue;
+    font-family: Montserrat;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 30px;
+}
